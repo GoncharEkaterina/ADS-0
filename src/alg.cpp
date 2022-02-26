@@ -6,4 +6,5 @@ int gcd(int a, int b) {
             return a = a - b;
         } else { return b = b - a; }
     }
+    return 0;
 }
